@@ -59,12 +59,11 @@ Cubrimiento con JACOCO
 
 Cubrimiento con SonarCloud
 ![](/src/main/resources/images/17.png)
-![](/src/main/resources/images/18.png)
 
 ### Funcionamiento del proyecto
 - Siguiendo las pruebas de unidad.
 ![](/src/main/resources/images/6.png)
 ![](/src/main/resources/images/7.png)
 
-- Se presentan los sigueintes mensajes.
+- Se presentan los siguientes mensajes.
 ![](/src/main/resources/images/15.png)
