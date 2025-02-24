@@ -54,6 +54,12 @@ Se escribio codigo necesario para pasar estas pruebas de unidad.
 Generación de las pruebas despues de la implementacion del codigo
 ![](/src/main/resources/images/14.png)
 
+Cubrimiento con JACOCO
+![](/src/main/resources/images/16.png)
+
+Cubrimiento con SonarCloud
+![](/src/main/resources/images/17.png)
+
 ### Funcionamiento del proyecto
 - Siguiendo las pruebas de unidad.
 ![](/src/main/resources/images/6.png)
